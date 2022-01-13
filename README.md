@@ -6,8 +6,8 @@ Tecnologias utilizadas:
 
 
 
-De acordo com a documentação do SLIM FrameWork 4 (https://www.slimframework.com/docs/v4/start/web-servers.html), para que o framework funcione como um webservice, deve-se utilizar o seguinte comando dentro da pasta /public/: 
-php -S localhost:8888
+De acordo com a documentação do SLIM FrameWork 4 (https://www.slimframework.com/docs/v4/start/web-servers.html), para que o framework funcione como um webservice, deve-se utilizar o seguinte comando dentro da pasta `/public/`: 
+`php -S localhost:8888`
 
 endpoints:
 http://localhost:8888/movimentos traz as melhores marcas pessoais de todos os movimentos
